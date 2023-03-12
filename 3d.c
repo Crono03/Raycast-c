@@ -4,6 +4,8 @@
 #include "3d.h"
 #include "createWindow.h"
 
+#define ROW  5
+#define COL  5
 
 
 void SetScreenToBlack(HWND hwnd)
@@ -29,8 +31,6 @@ void Raytracing(){
     
     //camera
     double FOV=M_PI_4;
-    const int ROW = 5;
-    const int COL = 5;
 
     //mappa
     int map[COL][ROW] = {
