@@ -1,3 +1,4 @@
-*.vscode/
-*.vs/
-Rasycast-c.snl
+/*.vscode
+.vs
+Raycast-c
+/Rasycast-c.snl
