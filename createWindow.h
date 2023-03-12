@@ -1,7 +1,7 @@
 #pragma once
 #include <Windows.h>
 #define WINDOW_WIDTH 640
-#define WINDOW_HEIGHT 480
+#define WINDOW_HEIGHT 480 
 typedef struct {
     HWND hwnd;
     HDC hdc;
