@@ -3,11 +3,6 @@
 const char* CLASS_NAME = "My Window Class";
 const char* WINDOW_TITLE = "My Window";
 
-
-const COLORREF color1 = RGB(255, 255, 255); // Bianco
-const COLORREF color2 = RGB(0, 0, 0);       // Nero
-COLORREF currentColor = color1;
-
 VOID CALLBACK TimerProc(HWND hwnd, UINT uMsg, UINT_PTR idEvent, DWORD dwTime) {
         
     }
