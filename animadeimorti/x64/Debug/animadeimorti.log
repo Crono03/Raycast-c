@@ -1,0 +1,4 @@
+﻿  main.cpp
+main.obj : error LNK2019: riferimento al simbolo esterno __imp_glClear non risolto nella funzione main
+C:\Users\cirel\Desktop\progr\animadeimorti\x64\Debug\animadeimorti.exe : fatal error LNK1120: 1 esterni non risolti
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1096,5): error MSB6006: "link.exe" terminato con il codice 1120.
