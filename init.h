@@ -1,3 +1,4 @@
+#pragma once
 #define GLFW_INCLUDE_NONE
 #define _USE_MATH_DEFINES
 #include "windows.h"
@@ -7,9 +8,9 @@
 #include <iostream>
 #include <cstdlib>
 #include "GL/glut.h"
-#include "init.h"
 
-int main(int argc, char* argv[]) {
-    Render();
-
-}
+extern const int WINDOW_WIDTH;
+extern const int WINDOW_HEIGHT;
+void framebuffer_size_callback(GLFWwindow* window, int width, int height);
+GLFWwindow* preRender();
+void Render();

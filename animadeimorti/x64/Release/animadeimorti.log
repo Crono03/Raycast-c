@@ -1,19 +1,18 @@
-﻿  main.cpp
-C:\Users\cirel\Desktop\progr\animadeimorti\main.cpp(33,24): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
-C:\Users\cirel\Desktop\progr\animadeimorti\main.cpp(80,26): warning C4244: 'inizializzazione': conversione da 'int' a 'float'. Possibile perdita di dati.
-C:\Users\cirel\Desktop\progr\animadeimorti\main.cpp(81,26): warning C4244: 'inizializzazione': conversione da 'int' a 'float'. Possibile perdita di dati.
-C:\Users\cirel\Desktop\progr\animadeimorti\main.cpp(82,26): warning C4244: 'inizializzazione': conversione da 'int' a 'float'. Possibile perdita di dati.
-C:\Users\cirel\Desktop\progr\animadeimorti\main.cpp(83,26): warning C4244: 'inizializzazione': conversione da 'int' a 'float'. Possibile perdita di dati.
-C:\Users\cirel\Desktop\progr\animadeimorti\main.cpp(128,33): warning C4244: 'argomento': conversione da 'int' a 'GLfloat'. Possibile perdita di dati.
-C:\Users\cirel\Desktop\progr\animadeimorti\main.cpp(128,24): warning C4244: 'argomento': conversione da 'int' a 'GLfloat'. Possibile perdita di dati.
-C:\Users\cirel\Desktop\progr\animadeimorti\main.cpp(129,37): warning C4244: 'argomento': conversione da 'int' a 'GLfloat'. Possibile perdita di dati.
-C:\Users\cirel\Desktop\progr\animadeimorti\main.cpp(129,26): warning C4244: 'argomento': conversione da 'int' a 'GLfloat'. Possibile perdita di dati.
-C:\Users\cirel\Desktop\progr\animadeimorti\main.cpp(130,39): warning C4244: 'argomento': conversione da 'int' a 'GLfloat'. Possibile perdita di dati.
-C:\Users\cirel\Desktop\progr\animadeimorti\main.cpp(130,26): warning C4244: 'argomento': conversione da 'int' a 'GLfloat'. Possibile perdita di dati.
-C:\Users\cirel\Desktop\progr\animadeimorti\main.cpp(131,35): warning C4244: 'argomento': conversione da 'int' a 'GLfloat'. Possibile perdita di dati.
-C:\Users\cirel\Desktop\progr\animadeimorti\main.cpp(131,24): warning C4244: 'argomento': conversione da 'int' a 'GLfloat'. Possibile perdita di dati.
+﻿  engine.cpp
+C:\Users\cirel\Desktop\progr\animadeimorti\engine.cpp(48,26): warning C4244: 'inizializzazione': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\cirel\Desktop\progr\animadeimorti\engine.cpp(49,26): warning C4244: 'inizializzazione': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\cirel\Desktop\progr\animadeimorti\engine.cpp(50,26): warning C4244: 'inizializzazione': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\cirel\Desktop\progr\animadeimorti\engine.cpp(51,26): warning C4244: 'inizializzazione': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\cirel\Desktop\progr\animadeimorti\engine.cpp(97,33): warning C4244: 'argomento': conversione da 'int' a 'GLfloat'. Possibile perdita di dati.
+C:\Users\cirel\Desktop\progr\animadeimorti\engine.cpp(97,24): warning C4244: 'argomento': conversione da 'int' a 'GLfloat'. Possibile perdita di dati.
+C:\Users\cirel\Desktop\progr\animadeimorti\engine.cpp(98,37): warning C4244: 'argomento': conversione da 'int' a 'GLfloat'. Possibile perdita di dati.
+C:\Users\cirel\Desktop\progr\animadeimorti\engine.cpp(98,26): warning C4244: 'argomento': conversione da 'int' a 'GLfloat'. Possibile perdita di dati.
+C:\Users\cirel\Desktop\progr\animadeimorti\engine.cpp(99,39): warning C4244: 'argomento': conversione da 'int' a 'GLfloat'. Possibile perdita di dati.
+C:\Users\cirel\Desktop\progr\animadeimorti\engine.cpp(99,26): warning C4244: 'argomento': conversione da 'int' a 'GLfloat'. Possibile perdita di dati.
+C:\Users\cirel\Desktop\progr\animadeimorti\engine.cpp(100,35): warning C4244: 'argomento': conversione da 'int' a 'GLfloat'. Possibile perdita di dati.
+C:\Users\cirel\Desktop\progr\animadeimorti\engine.cpp(100,24): warning C4244: 'argomento': conversione da 'int' a 'GLfloat'. Possibile perdita di dati.
   Generazione codice in corso...
-  2 of 16 functions (12.5%) were compiled, the rest were copied from previous compilation.
+  3 of 18 functions (16.7%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Generazione codice terminata
