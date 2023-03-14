@@ -9,7 +9,11 @@
 #include "GL/glut.h"
 #include "init.h"
 
-int main(int argc, char* argv[]) {
-    Render();
+// Dimensioni della finestra
+ const int WINDOW_WIDTH = 1080;
+ const int WINDOW_HEIGHT = 720;
 
+void framebuffer_size_callback(GLFWwindow* window, int width, int height) {
+    glViewport(0, 0, width, height);
 }
+
